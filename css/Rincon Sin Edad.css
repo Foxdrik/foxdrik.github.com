@@ -1,0 +1,8017 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+font-size: 50px;
+text-align: center;
+color: rebeccapurple;
+}
+
+header{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.carrito-header{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.carrito{
+height: 30px;
+margin-left: 1430px;
+margin-top: -135px;
+display: block;
+}
+
+.Buscador{
+display: inline-block;
+}
+
+nav{
+margin-left: 1100px;
+margin-bottom: 550px;
+}
+
+ul li{
+display: inline;
+padding: 0px 20px;
+margin-left: -10px;
+}
+
+a{
+color: rebeccapurple;
+text-decoration: none;
+}
+
+a:hover{
+color: azure;
+}
+
+section{
+height: 650px;
+background-color: gainsboro;
+}
+
+.Presentacion {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+}
+
+.Imagen {
+    height: 150px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: #96BC17;
+}
+
+.Agumon {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transform: translateY(-4%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.Description {
+    padding: 15px;
+    text-align: justify;
+}
+
+h2 {
+    margin-left: 100px;
+    color: black;
+}
+
+p {
+    margin: 10px;
+    color: black;
+}
+
+button{
+background-color: #96BC17;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-2{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    left: 600px;
+    bottom: 415px;
+}
+
+.Imagen-2{
+    height: 150px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+.Pikachu {
+    width: 79%;
+    height: auto;
+    margin-left: 25px;
+    object-fit: cover;
+    transform: translateY(1%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.button-p{
+background-color: lightblue;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-3{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    left: 1000px;
+    bottom: 780px;
+}
+
+.Imagen-3{
+    height: 150px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: #995684;
+}
+
+.Jibanyan {
+    width: 55%;
+    height: auto;
+    margin-left: 75px;
+    object-fit: cover;
+    transform: translateY(1%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.button-j{
+background-color: #995684;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+footer{
+height: 170px;
+background-color: gainsboro;
+}
+
+.menu-2{
+margin-left: 10px;
+margin-bottom: 550px
+}
+
+.menu-2-2{
+display: inline;
+padding: 0px 20px;
+margin-left: -10px;
+font-weight: bold;
+}
+
+.menu-2-2-2{
+color: rebeccapurple;
+text-decoration: none;
+}
+
+.menu-2-2-2:hover{
+color: ghostwhite;
+}
+
+.Redes{
+margin-left: 1300px;
+color: rebeccapurple;
+}
+
+.Youtube{
+height: 30px;
+margin-bottom: -50px;
+margin-left: 1470px;
+}
+
+.Twitter{
+height: 50px;
+margin-bottom: -40px;
+margin-left: 1400px;
+}
+
+.Instagram{
+height: 40px;
+margin-bottom: -10px;
+margin-left: 1320px;
+}
+
+.WhatsApp{
+height: 60px;
+margin-top: -40px;
+margin-left: 1250px;
+position: relative;
+}
+
+/*Subcategorias de Digimon*//*Subcategorias de Digimon*//*Subcategorias de Digimon*/
+
+
+.header-Digimon{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.h1-Digimon{
+font-size: 50px;
+text-align: center;
+color: rebeccapurple;
+}
+
+.carrito-digimon{
+height: 30px;
+margin-left: 1430px;
+margin-bottom: 240px;
+}
+
+.Buscador-digimon{
+margin-left: 100px;
+margin-bottom: -1px;
+}
+
+.nav-digimon{
+margin-left: 1100px;
+margin-bottom: 550px;
+}
+
+.ul-digimon .li-digimon{
+display: inline;
+padding: 0px 20px;
+margin-left: -10px;
+}
+
+.a-digimon{
+color: rebeccapurple;
+text-decoration: none;
+}
+
+.a-digimon:hover{
+color: ghostwhite;
+}
+
+.section-Digimon{
+height: 650px;
+background-color: gainsboro;
+}
+
+.Presentacion-digimon{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 160px;
+}
+
+.Imagen-digimon{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #96BC17; 
+}
+
+.Prueba-juguete{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-digimon{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-digimon{
+background-color: #96BC17;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-digimon-2{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 600px;
+bottom: 525px;
+}
+
+.Imagen-digimon-2{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #96BC17; 
+}
+
+.Prueba-peluche{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-digimon-2{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-digimon-2{
+background-color: #96BC17;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-digimon-3{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 1000px;
+bottom: 890px;
+}
+
+.Imagen-digimon-3{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #96BC17; 
+}
+
+.Prueba-juego{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-digimon-3{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-digimon-3{
+background-color: #96BC17;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-digimon-4{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 850px;
+}
+
+.Imagen-digimon-4{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #96BC17; 
+}
+
+.Prueba-juego-cartas{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.h2-digimon{
+margin-left: 70px;
+}
+
+.p-digimon-4{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-digimon-4{
+background-color: #96BC17;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.footer-Digimon{
+height: 300;
+background-color: gainsboro;
+}
+
+/*Subcategorias de Pokemon*//*Subcategorias de Pokemon*//*Subcategorias de Pokemon*/
+
+.header-Pokemon{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.h1-Pokemon{
+font-size: 50px;
+text-align: center;
+color: rebeccapurple;
+}
+
+.carrito-Pokemon{
+height: 30px;
+margin-left: 1430px;
+margin-bottom: 240px;
+}
+
+.Buscador-Pokemon{
+margin-left: 100px;
+margin-bottom: -1px;
+}
+
+.nav-Pokemon{
+margin-left: 1100px;
+margin-bottom: 550px;
+}
+
+.ul-Pokemon .li-Pokemon{
+display: inline;
+padding: 0px 20px;
+margin-left: -10px;
+}
+
+.a-Pokemon{
+color: rebeccapurple;
+text-decoration: none;
+}
+
+.a-Pokemon:hover{
+color: ghostwhite;
+}
+
+.section-Pokemon{
+height: 650px;
+background-color: gainsboro;
+}
+
+.Presentacion-Pokemon{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 160px;
+}
+
+.Imagen-Pokemon{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: lightblue; 
+}
+
+.Prueba-juguete-pokemon{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Pokemon{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Pokemon{
+background-color: lightblue;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Pokemon-2{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 600px;
+bottom: 525px;
+}
+
+.Imagen-Pokemon-2{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: lightblue; 
+}
+
+.Prueba-peluche-pokemon{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Pokemon-2{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Pokemon-2{
+background-color: lightblue;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Pokemon-3{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 1000px;
+bottom: 890px;
+}
+
+.Imagen-Pokemon-3{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: lightblue; 
+}
+
+.Prueba-juego-pokemon{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Pokemon-3{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Pokemon-3{
+background-color: lightblue;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Pokemon-4{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 850px;
+}
+
+.Imagen-Pokemon-4{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: lightblue; 
+}
+
+.Prueba-juego-cartas-pokemon{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.h2-Pokemon{
+margin-left: 70px;
+}
+
+.p-Pokemon-4{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Pokemon-4{
+background-color: lightblue;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.footer-Pokemon{
+height: 300;
+background-color: gainsboro;
+}
+
+/*Subcategorias de Yo-Kai-Watch*//*Subcategorias de Yo-Kai-Watch*//*Subcategorias de Yo-Kai-Watch*/
+
+.header-Yo-Kai-Watch{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.h1-Yo-Kai-Watch{
+font-size: 50px;
+text-align: center;
+color: rebeccapurple;
+}
+
+.carrito-Yo-Kai-Watch{
+height: 30px;
+margin-left: 1430px;
+margin-bottom: 240px;
+}
+
+.Buscador-Yo-Kai-Watch{
+margin-left: 100px;
+margin-bottom: -1px;
+}
+
+.nav-Yo-Kai-Watch{
+margin-left: 1100px;
+margin-bottom: 550px;
+}
+
+.ul-Yo-Kai-Watch .li-Yo-Kai-Watch{
+display: inline;
+padding: 0px 20px;
+margin-left: -10px;
+}
+
+.a-Yo-Kai-Watch{
+color: rebeccapurple;
+text-decoration: none;
+}
+
+.a-Yo-Kai-Watch:hover{
+color: ghostwhite;
+}
+
+.section-Yo-Kai-Watch{
+height: 650px;
+background-color: gainsboro;
+}
+
+.Presentacion-Yo-Kai-Watch{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 160px;
+}
+
+.Imagen-Yo-Kai-Watch{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #995684; 
+}
+
+.Prueba-manga-yo-kai-watch{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Yo-Kai-Watch{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Yo-Kai-Watch{
+background-color: #995684;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Yo-Kai-Watch-2{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 600px;
+bottom: 525px;
+}
+
+.Imagen-Yo-Kai-Watch-2{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #995684; 
+}
+
+.Prueba-juegos-yo-kai-watch{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Yo-Kai-Watch-2{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Yo-Kai-Watch-2{
+background-color: #995684;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Yo-Kai-Watch-3{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 1000px;
+bottom: 890px;
+}
+
+.Imagen-Yo-Kai-Watch-3{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #995684; 
+}
+
+.Prueba-juguetes-yo-kai-watch{
+margin-left: 50px;    
+width: 190px;
+height: 190px;
+transform: translateY(2%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.p-Yo-Kai-Watch-3{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Yo-Kai-Watch-3{
+background-color: #995684;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.Presentacion-Yo-Kai-Watch-4{
+background-color: #ffffff;
+border: 3px solid gainsboro;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 300px;
+height: 360px;
+overflow: hidden;
+position: relative;
+left: 200px;
+bottom: 850px;
+}
+
+.Imagen-Yo-Kai-Watch-4{
+height: 150px; /* Ajusta la altura según lo necesario */
+overflow: hidden;
+background-color: #995684; 
+}
+
+.Prueba-llaveros-yo-kai-watch{
+margin-left: 40px;    
+width: 210px;
+height: 210px;
+transform: translateY(-22%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.h2-Yo-Kai-Watch{
+margin-left: 100px;
+}
+
+.p-Yo-Kai-Watch-4{
+text-align: center;
+top: -5px;
+margin: 10px;
+color: black;
+}
+
+.button-Yo-Kai-Watch-4{
+background-color: #995684;
+border-radius: 200%;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+}
+
+.footer-Yo-Kai-Watch{
+height: 300;
+background-color: gainsboro;
+}
+
+/*Productos Digimon*//*Productos Digimon*//*Productos Digimon*//*Productos Digimon*/
+
+.header-productos-digimon{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.header-productos-digimon2{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.header-productos-digimon3{
+height: 100px;
+background-color: gainsboro;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+.section-productos-digimon{
+height: 6300px;
+background-color: gainsboro;
+}
+
+.Producto1 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 230px;
+    display: flex;
+}
+
+.Color-de-atras {
+    height: 250px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: #96BC17;
+}
+
+.Producto-1D {
+height: 200px;
+}
+
+.Titulo{
+margin-left: 450px;
+}
+
+.Descripcion{
+margin-left: 400px;
+}
+
+.Precio{
+margin-left: 550px;
+}
+
+.boton-detalles{
+position: relative;
+left: 550px;
+bottom: 20px;
+}
+
+.boton-detalles2{
+position: relative;
+left: 550px;
+bottom: 20px;
+background-color: lightblue;
+}
+
+.boton-detalles3{
+position: relative;
+left: 600px;
+bottom: 20px;
+background-color: #995684;
+}
+
+.footer-productos-digimon{
+height: 120px;
+background-color: gainsboro;
+}
+
+.Producto2 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 200px;
+    display: flex;
+}
+
+.Titulo2{
+margin-left: 400px;
+}
+
+.Producto3 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Titulo3{
+margin-left: 350px;
+}
+
+.Producto4 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Titulo4{
+margin-left: 470px;
+}
+
+.Producto5 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Titulo5{
+margin-left: 470px;
+}
+
+.Producto6 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Titulo6{
+margin-left: 400px;
+}
+
+.Producto7 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Titulo7{
+margin-left: 440px;
+}
+
+.Producto8 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto9 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Titulo9{
+margin-left: 410px;
+}
+
+.Producto10 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Titulo10{
+margin-left: 510px;
+}
+
+.Descripcion10{
+margin-left: 480px;
+}
+
+.Precio10{
+margin-left: 600px;
+}
+
+.boton-comprar10{
+position: relative;
+left: 600px;
+bottom: 20px;
+}
+
+.Producto11 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Titulo11{
+margin-left: 460px;
+}
+
+.Descripcion11{
+margin-left: 430px;
+}
+
+.Precio11{
+margin-left: 550px;
+}
+
+.boton-comprar11{
+position: relative;
+left: 600px;
+bottom: 20px;
+}
+
+.Producto12 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto13 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto14 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Titulo14{
+margin-left: 440px;
+}
+
+.Producto15 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Titulo15{
+margin-left: 420px;
+}
+
+.Producto16 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Titulo16{
+margin-left: 400px;
+}
+
+.Producto17 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Titulo17{
+margin-left: 250px;
+}
+
+.Descripcion17{
+margin-left: 270px;
+}
+
+.Precio17{
+margin-left: 400px;
+}
+
+.boton-comprar17{
+position: relative;
+left: 450px;
+bottom: 20px;
+}
+
+.Producto18 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Titulo18{
+margin-left: 330px;
+}
+
+.Descripcion18{
+margin-left: 350px;
+}
+
+.Precio18{
+margin-left: 500px;
+}
+
+.boton-comprar18{
+position: relative;
+left: 530px;
+bottom: 20px;
+}
+
+.Producto19 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Titulo19{
+margin-left: 450px;
+}
+
+.Descripcion19{
+margin-left: 400px;
+}
+
+.Precio18{
+margin-left: 500px;
+}
+
+.boton-comprar18{
+position: relative;
+left: 530px;
+bottom: 20px;
+}
+
+.Producto20 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Titulo20{
+margin-left: 500px;
+}
+
+.Descripcion20{
+margin-left: 450px;
+}
+
+.Precio20{
+margin-left: 570px;
+}
+
+.boton-comprar20{
+position: relative;
+left: 600px;
+bottom: 20px;
+}
+
+.Producto21 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto22 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto23 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto24 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto25 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Titulo25{
+margin-left: 450px;
+}
+
+.Descripcion25{
+margin-left: 420px;
+}
+
+/*Peluches Digimon*//*Peluches Digimon*//*Peluches Digimon*//*Productos Digimon*/
+
+.section-peluches-digimon{
+height: 6300px;
+}
+
+.Producto26 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Titulo26{
+margin-left: 500px;
+}
+
+.Descripcion26{
+margin-left: 450px;
+}
+
+.Producto27 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto-27D {
+height: 200px;
+position: relative;
+bottom: -10px;
+}
+
+.Producto28 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto29 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto30 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto31 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto32 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto33 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto34 {
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto34{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+
+
+.Producto-34D {
+height: 200px;
+position: relative;
+bottom: -10px;
+left: 10px;
+}
+
+
+.boton-comprar34{
+position: relative;
+left: 750px;
+bottom: 20px;
+}
+
+.Titulo34{
+margin-left: 400px;
+}
+
+.Descripcion34{
+margin-left: 370px;
+}
+
+.Precio34{
+margin-left: 500px;
+}
+
+.Producto35{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Titulo35{
+margin-left: 400px;
+}
+
+.Descripcion35{
+margin-left: 340px;
+}
+
+.Precio35{
+margin-left: 470px;
+}
+
+.Producto36{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto37{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto38{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto39{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto-39D {
+height: 200px;
+position: relative;
+}
+
+.Titulo39{
+margin-left: 500px;
+}
+
+.Descripcion39{
+margin-left: 440px;
+}
+
+.Precio39{
+margin-left: 570px;
+}
+
+.boton-comprar39{
+position: relative;
+left: 680px;
+bottom: 20px;
+}
+
+.Producto40{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto41{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto42{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto43{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto44{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto45{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto46{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto47{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto48{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto49{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto50{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+/*Juegos Digimon*//*Juegos Digimon*//*Juegos Digimon*//*Juegos Digimon*/
+
+.section-juegos-digimon{
+height: 4300px;
+}
+
+.Producto51{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Titulo51{
+margin-left: 350px;
+}
+
+.Producto52{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Titulo52{
+margin-left:430px;
+}
+
+.Producto53{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto54{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Titulo54{
+margin-left:400px;
+}
+
+.Producto55{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto56{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto57{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto58{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto59{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto60{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto61{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto62{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto63{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto64{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto65{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto66{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto67{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+/*Juego de Cartas Digimon*//*Juego de Cartas Digimon*//*Juego de Cartas Digimon*/
+
+.section-juego-de-cartas-digimon{
+height: 8300px;
+}
+
+.Producto68{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Titulo68{
+margin-left: 300px;
+}
+
+.Descripcion68{
+margin-left: 310px;
+}
+
+.Precio68{
+margin-left: 470px;
+}
+
+.boton-comprar68{
+position: relative;
+left: 580px;
+bottom: 20px;
+}
+
+.Producto69{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Titulo69{
+margin-left: 400px;
+}
+
+.Descripcion69{
+margin-left: 410px;
+}
+
+.Precio69{
+margin-left: 570px;
+}
+
+.boton-comprar69{
+position: relative;
+left: 680px;
+bottom: 20px;
+}
+
+.Producto70{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto71{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto72{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto73{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto74{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto75{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto76{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto77{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto78{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto79{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto-79D {
+height: 200px;
+position: relative;
+left: 20px;
+}
+
+.Producto80{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto81{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto82{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto83{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto84{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto85{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto86{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto87{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto88{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto89{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto90{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto91{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto92{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+.Producto93{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1020px;
+    display: flex;
+}
+
+.Producto94{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1070px;
+    display: flex;
+}
+
+.Producto95{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1120px;
+    display: flex;
+}
+
+.Producto96{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1170px;
+    display: flex;
+}
+
+.Producto97{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1220px;
+    display: flex;
+}
+
+.Producto98{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1270px;
+    display: flex;
+}
+
+.Producto99{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1320px;
+    display: flex;
+}
+
+.Producto100{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1370px;
+    display: flex;
+}
+
+/*Juguetes Pokemon*//*Juguetes Pokemon*//*Juguetes Pokemon*//*Juguetes Pokemon*//*Juguetes Pokemon*/
+
+.section-juguetes-pokemon{
+height: 6300px;
+}
+
+.Producto101{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Color-de-atras101{
+background-color: lightblue;
+}
+
+.Titulo101{
+margin-left: 500px;
+}
+
+.Descripcion101{
+margin-left: 450px;
+}
+
+.Precio101{
+margin-left: 570px;
+}
+
+.boton-comprar101{
+position: relative;
+left: 680px;
+bottom: 20px;
+}
+
+.Producto102{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto103{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto104{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto105{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto106{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto107{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto108{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto109{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto110{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto111{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto112{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto113{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto114{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto115{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto116{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto117{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto118{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto119{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto120{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto121{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto122{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto123{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto124{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto125{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+/*Peluches Pokemon*//*Peluches Pokemon*//*Peluches Pokemon*//*Peluches Pokemon*//*Peluches Pokemon*/
+
+.section-peluches-pokemon{
+height: 6300px;
+}
+
+.Producto126{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto127{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto128{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto129{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto130{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto131{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto132{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto133{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto134{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto135{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto136{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto137{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto138{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto139{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto140{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto141{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto142{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto143{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto144{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto145{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto146{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto147{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto148{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto149{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto150{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+/*Juegos Pokemon*//*Juegos Pokemon*//*Juegos Pokemon*//*Juegos Pokemon*//*Juegos Pokemon*/
+
+.section-juegos-pokemon{
+height: 8700px;
+}
+
+.Producto151{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto152{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto153{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto154{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto155{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto156{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto157{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto158{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto159{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto160{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto161{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto162{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto163{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto164{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto165{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto166{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto167{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto168{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto169{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto170{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto171{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto172{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto173{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto174{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto175{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+.Producto176{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1020px;
+    display: flex;
+}
+
+.Producto177{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1070px;
+    display: flex;
+}
+
+.Producto178{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1120px;
+    display: flex;
+}
+
+.Producto179{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1170px;
+    display: flex;
+}
+
+.Producto180{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1220px;
+    display: flex;
+}
+
+.Producto181{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1270px;
+    display: flex;
+}
+
+.Producto182{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1320px;
+    display: flex;
+}
+
+.Producto183{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1370px;
+    display: flex;
+}
+
+.Producto184{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1420px;
+    display: flex;
+}
+
+/*Juego de cartas Pokemon*//*Juego de cartas Pokemon*//*Juegos de cartas Pokemon*/
+
+.section-juego-de-cartas-pokemon{
+height: 4000px;
+}
+
+.Producto185{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto186{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto187{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto188{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto189{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto190{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto191{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto192{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto193{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto194{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto195{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto196{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto197{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto198{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto199{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto200{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+/*Manga Yo Kai Watch*//*Manga Yo Kai Watch*//*Manga Yo Kai Watch*/
+
+.section-manga-yo-kai-watch{
+height: 7000px;
+}
+
+.Producto201{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Color-de-atras201{
+background-color: #995684;
+}
+
+.Titulo201{
+margin-left: 480px;
+}
+
+.Descripcion201{
+margin-left: 450px;
+}
+
+.Precio201{
+margin-left: 610px;
+}
+
+.boton-comprar201{
+position: relative;
+left: 680px;
+bottom: 20px;
+}
+
+.Producto202{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto203{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto204{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto205{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto206{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto207{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto208{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto209{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto210{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto211{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto212{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto213{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto214{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto215{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto216{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto217{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto218{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto219{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto220{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto221{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto222{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto223{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto224{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto225{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+.Producto226{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1020px;
+    display: flex;
+}
+
+.Producto227{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1070px;
+    display: flex;
+}
+
+.Producto228{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1120px;
+    display: flex;
+}
+
+/*Juegos Yo Kai Watch*//*Juegos Yo Kai Watch*//*Juegos Yo Kai Watch*/
+
+.section-juegos-yo-kai-watch{
+height: 2500px;
+}
+
+.Producto229{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto230{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto231{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto232{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto233{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto234{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto235{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto236{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto237{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto238{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+/*Juguetes Yo Kai Watch*//*Juguetes Yo Kai Watch*//*Juguetes Yo Kai Watch*//*Juguetes Yo Kai Watch*/
+
+.section-juguetes-yo-kai-watch{
+height: 14000px;
+}
+
+.Producto239{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto240{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto241{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto242{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto243{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto244{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto245{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+.Producto246{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -120px;
+    display: flex;
+}
+
+.Producto247{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -170px;
+    display: flex;
+}
+
+.Producto248{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -220px;
+    display: flex;
+}
+
+.Producto249{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -270px;
+    display: flex;
+}
+
+.Producto250{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -320px;
+    display: flex;
+}
+
+.Producto251{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -370px;
+    display: flex;
+}
+
+.Producto252{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -420px;
+    display: flex;
+}
+
+.Producto253{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -470px;
+    display: flex;
+}
+
+.Producto254{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -520px;
+    display: flex;
+}
+
+.Producto255{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -570px;
+    display: flex;
+}
+
+.Producto256{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -620px;
+    display: flex;
+}
+
+.Producto257{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -670px;
+    display: flex;
+}
+
+.Producto258{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -720px;
+    display: flex;
+}
+
+.Producto259{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -770px;
+    display: flex;
+}
+
+.Producto260{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -820px;
+    display: flex;
+}
+
+.Producto261{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -870px;
+    display: flex;
+}
+
+.Producto262{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -920px;
+    display: flex;
+}
+
+.Producto263{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -970px;
+    display: flex;
+}
+
+.Producto264{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1020px;
+    display: flex;
+}
+
+.Producto265{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1070px;
+    display: flex;
+}
+
+.Producto266{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1120px;
+    display: flex;
+}
+
+.Producto267{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1170px;
+    display: flex;
+}
+
+.Producto268{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1220px;
+    display: flex;
+}
+
+.Producto269{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1270px;
+    display: flex;
+}
+
+.Producto270{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1320px;
+    display: flex;
+}
+
+.Producto271{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1370px;
+    display: flex;
+}
+
+.Producto272{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1420px;
+    display: flex;
+}
+
+.Producto273{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1470px;
+    display: flex;
+}
+
+.Producto274{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1520px;
+    display: flex;
+}
+
+.Producto275{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1570px;
+    display: flex;
+}
+
+.Producto276{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1620px;
+    display: flex;
+}
+
+.Producto277{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1670px;
+    display: flex;
+}
+
+.Producto278{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1720px;
+    display: flex;
+}
+
+.Producto279{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1770px;
+    display: flex;
+}
+
+.Producto280{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1820px;
+    display: flex;
+}
+
+.Producto281{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1870px;
+    display: flex;
+}
+
+.Producto282{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1920px;
+    display: flex;
+}
+
+.Producto283{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -1970px;
+    display: flex;
+}
+
+.Producto284{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2020px;
+    display: flex;
+}
+
+.Producto285{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2070px;
+    display: flex;
+}
+
+.Producto286{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2120px;
+    display: flex;
+}
+
+.Producto287{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2170px;
+    display: flex;
+}
+
+.Producto288{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2220px;
+    display: flex;
+}
+
+.Producto289{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2270px;
+    display: flex;
+}
+
+.Producto290{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2320px;
+    display: flex;
+}
+
+.Producto291{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2370px;
+    display: flex;
+}
+
+.Producto292{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2420px;
+    display: flex;
+}
+
+.Producto293{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -2470px;
+    display: flex;
+}
+
+/*Llaveros Yo Kai Watch*//*Llaveros Yo Kai Watch*//*Llaveros Yo Kai Watch*//*Llaveros Yo Kai Watch*/
+
+.section-llaveros-yo-kai-watch{
+height: 1700px;
+}
+
+.Producto294{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    display: flex;
+}
+
+.Producto295{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+    display: flex;
+}
+
+.Producto296{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 120px;
+    display: flex;
+}
+
+.Producto297{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    display: flex;
+}
+
+.Producto298{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    display: flex;
+}
+
+.Producto299{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -20px;
+    display: flex;
+}
+
+.Producto300{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 1500px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    left: 50px;
+    bottom: -70px;
+    display: flex;
+}
+
+/*Aviso de Privacidad*//*Aviso de Privacidad*//*Aviso de Privacidad*//*Aviso de Privacidad*/
+
+.section-aviso{
+height: 850px;
+}
+
+.aviso-titulo{
+margin-left: 50px;
+margin-top: -200px;
+}
+
+.aviso-de-privacidad{
+margin: 10px;
+color: rebeccapurple;
+text-align: center;
+}
+
+/*Terminos y Condiciones*//*Terminos y Condiciones*//*Terminos y Condiciones*//*Terminos y Condiciones*/
+
+.section-terminos{
+height: 2800px;
+}
+
+.terminos-titulo{
+margin-left: 50px;
+margin-top: -200px;
+}
+
+.terminos-subtitulos{
+margin-left: -1180px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos2{
+margin-left: -920px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos3{
+margin-left: -910px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos4{
+margin-left: -1160px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos5{
+margin-left: -1010px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos6{
+margin-left: -820px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos7{
+margin-left: -1035px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-informacion{
+margin: 10px;
+color: rebeccapurple;
+text-align: center;
+}
+
+/*Informacion-Empresa*//*Informacion-Empresa*//*Informacion-Empresa*//*Informacion-Empresa*/
+
+.section-informacion-empresa{
+height: 1000px;
+}
+
+.terminos-subtitulos8{
+margin-left: 50px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.Ubicacion{
+position: relative;
+height: 300px;
+margin-left: 250px;
+margin-bottom: 100px;
+}
+
+.Ubicacion2{
+height: 300px;
+margin-left: 200px;
+margin-bottom: 100px;}
+
+/*Atencion-Cliente*//*Atencion-Cliente*//*Atencion-Cliente*//*Atencion-Cliente*/
+
+.section-atencion-cliente{
+height: 2000px;
+}
+
+.terminos-titulo9{
+margin-left: 50px;
+margin-top: -200px;
+}
+
+.terminos-subtitulos9{
+margin-left: 50px;
+color: rebeccapurple;
+text-align: center;
+}
+
+.terminos-subtitulos10{
+margin-left: 50px;
+color: rebeccapurple;
+text-align: center;
+}
+
+/*Iniciar-Sesion*//*Iniciar-Sesion*//*Iniciar-Sesion*//*Iniciar-Sesion*//*Iniciar-Sesion*/
+
+.section-iniciar-sesion{
+height: 650px;
+}
+
+form{
+padding: 50px;
+display: flex;
+flex-direction: column;
+width: 400px;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+border-radius: 15px;
+background-color: #EEEEEE;
+position: relative;
+left: 550px;
+top: -100px;
+}
+
+.Iniciar-Sesion{
+font-size: 30px;
+text-transform: uppercase;
+color: #2E2E2E;
+margin-bottom: 25px;
+}
+
+label, .remember2{
+font-size: 17px;
+color: #575757;
+margin-bottom: 10px;
+}
+
+.Username2{
+padding: 17px 11px;
+border: 1px solid rebeccapurple;
+border-radius: 25px;
+margin-bottom: 25px;
+background-color: #FAFAFC;
+outline: none;
+color: black;
+font-size: 17px;
+}
+
+.btn-1{
+padding: 17px 11px;
+border: 1px solid rebeccapurple;
+border-radius: 25px;
+margin-bottom: 25px;
+background-color: #FAFAFC;
+outline: none;
+color: #FFFFFF;
+background-color: rebeccapurple;
+font-size: 17px;
+}
+
+.btn-1:hover{
+background-color: rebeccapurple;
+}
+
+.remember{
+display: flex;
+justify-content: space-between;
+margin-bottom: 25px;
+}
+
+/*Contactos*//*Contactos*//*Contactos*//*Contactos*//*Contactos*//*Contactos*//*Contactos*/
+
+.section-contactos{
+height: 650px;
+}
+
+.Telefono{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    left: 350px;
+    bottom: 50px;
+}
+
+.Imagen-Telefono{
+    height: 150px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: lightyellow;
+}
+
+.Agumon-Telefono {
+    position: relative;
+    left: 25px;
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+    transform: translateY(-4%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.Mover-Titulo-Telefono {
+margin-left: 100px;
+margin-top: 20px;
+}
+.Mover-Descripcion-Telefono {
+margin-left: 100px;
+margin-top: 50px;
+}
+
+.Correo{
+    background-color: #ffffff;
+    border: 3px solid gainsboro;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    left: 850px;
+    bottom: 415px;
+}
+
+.Imagen-Correo{
+    height: 150px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: lightyellow;
+}
+
+.Agumon-Correo {
+    position: relative;
+    left: 25px;
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+    transform: translateY(-4%); /* Ajusta este valor para mostrar la mitad deseada */
+}
+
+.Mover-Titulo-Correo {
+margin-left: 110px;
+margin-top: 20px;
+}
+.Mover-Descripcion-Correo {
+margin-left: 70px;
+margin-top: 50px;
+}
+
+/*Detalles juguetes digimon*//*Detalles juguetes digimon*//*Detalles juguetes digimon*/
+
+.Comprar{
+height: 650px;
+background-color: gainsboro;
+}
+
+.producto-detalle{
+display: flex;
+}
+
+.color-de-atras{
+    height: 410px; /* Ajusta la altura según lo necesario */
+    width: 810px;
+    overflow: hidden;
+    background-color: #96BC17;
+    border-radius: 50px;
+    margin-left: 350px;
+    margin-top: -40px;
+}
+
+.palabras {
+    height: 380px; /* Ajusta la altura según lo necesario */
+    width: 450px;
+    overflow: hidden;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -25px;
+    position: absolute;
+    border-radius: 20px;
+    padding: 1px;
+    margin-bottom: 15px;
+}
+
+.titulo{
+margin-left: 60px;
+padding-top: 100px;
+}
+
+.descripcion{
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.precio{
+margin-left: 200px;
+margin-top: 30px;
+}
+
+.blackwargreymon-img{
+position: relative;
+margin-left: 25px;
+margin-top: 30px;
+}
+
+.blackwargreymon-titulo{
+margin-left: 30px;
+}
+
+.imperialdramon-img{
+position: relative;
+margin-left: -12px;
+margin-top: 25px;
+}
+
+.imperialdramon-titulo{
+margin-left: 23px;
+white-space: nowrap;
+}
+
+.imperialdramon-descripcion{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.lilimon-img{
+position: relative;
+margin-left: 30px;
+margin-top: 5px;
+}
+
+.lilimon-titulo{
+margin-left: 80px;
+}
+
+.lilimon-descripcion{
+margin-left: 5px;
+white-space: nowrap;
+}
+
+.patamon-img{
+height: 400px;
+position: relative;
+margin-left: 30px;
+margin-top: 5px;
+}
+
+.patamon-titulo{
+margin-left: 100px;
+}
+
+.metalgarurumon-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 50px;
+}
+
+.metalgarurumon-titulo{
+margin-left: 55px;
+white-space: nowrap;
+}
+
+.omegamon-img{
+height: 400px;
+position: relative;
+margin-left: 1px;
+margin-top: -5px;
+}
+
+.omegamon-titulo{
+margin-left: 90px;
+}
+
+.zudomon-img{
+height: 330px;
+position: relative;
+margin-left: -5px;
+margin-top: 40px;
+}
+
+.zudomon-titulo{
+margin-left: 90px;
+}
+
+.holyangemon-img{
+height: 330px;
+position: relative;
+margin-left: -5px;
+margin-top: 50px;
+}
+
+.holyangemon-titulo{
+margin-left: 70px;
+}
+
+.elegido1-img{
+height: 350px;
+position: relative;
+margin-left: 70px;
+margin-top: 20px;
+}
+
+.elegido1-titulo{
+margin-left: 60px;
+white-space: nowrap;
+}
+
+.elegido1-descripcion{
+margin-left: 70px;
+}
+
+.elegido2-img{
+height: 350px;
+position: relative;
+margin-left: 3px;
+margin-top: 20px;
+}
+
+.elegido3-img{
+height: 350px;
+position: relative;
+margin-left: -5px;
+margin-top: 20px;
+}
+
+.elegido4-img{
+height: 350px;
+position: relative;
+margin-left: -9px;
+margin-top: 20px;
+}
+
+.garudamon-img{
+height: 350px;
+position: relative;
+margin-left: 40px;
+margin-top: 20px;
+}
+
+.garudamon-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.atlaskabuterimon-img{
+height: 350px;
+position: relative;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.atlaskabuterimon-titulo{
+margin-left: 40px;
+white-space: nowrap;
+}
+
+.gallantmon-img{
+height: 350px;
+position: relative;
+margin-left: -5px;
+margin-top: 40px;
+}
+
+.gallantmon-titulo{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.elegidos-d-img{
+height: 200px;
+position: relative;
+margin-left: 5px;
+margin-top: 100px;
+}
+
+.elegidos-d-titulo{
+margin-left: 25px;
+white-space: nowrap;
+}
+
+.elegidos-h-img{
+height: 250px;
+position: relative;
+margin-left: 5px;
+margin-top: 90px;
+}
+
+.gomamon-img{
+height: 250px;
+position: relative;
+margin-left: 30px;
+margin-top: 90px;
+}
+
+.gomamon-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.gabumon-img{
+height: 250px;
+position: relative;
+margin-left: 70px;
+margin-top: 90px;
+}
+
+.gatomon-img{
+height: 250px;
+position: relative;
+margin-left: 30px;
+margin-top: 90px;
+}
+
+.weregarurumon-img{
+height: 350px;
+position: relative;
+margin-left: 30px;
+margin-top: 50px;
+}
+
+.weregarurumon-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.patamon2-img{
+height: 330px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.patamon2-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.agumon2-img{
+height: 330px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.agumon2-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.biyomon-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.gatomon2-img{
+height: 330px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.gomamon2-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.palmon-img{
+height: 300px;
+position: relative;
+margin-left: 40px;
+margin-top: 50px;
+}
+
+.palmon-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.terriermon-img{
+height: 280px;
+position: relative;
+margin-left: -10px;
+margin-top: 50px;
+}
+
+.terriermon-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.culumon-img{
+height: 280px;
+position: relative;
+margin-left: -5px;
+margin-top: 80px;
+}
+
+.dokamon-img{
+height: 320px;
+position: relative;
+margin-left: 50px;
+margin-top: 50px;
+}
+
+.demiveemon-img{
+height: 320px;
+position: relative;
+margin-left: 30px;
+margin-top: 50px;
+}
+
+.renamon-img{
+height: 320px;
+position: relative;
+margin-left: 90px;
+margin-top: 50px;
+}
+
+.seadramon-img{
+height: 240px;
+position: relative;
+margin-left: 10px;
+margin-top: 90px;
+}
+
+.wormmon-img{
+height: 220px;
+position: relative;
+margin-left: 60px;
+margin-top: 90px;
+}
+
+.nyaromon-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 50px;
+}
+
+.veemon-img{
+height: 300px;
+position: relative;
+margin-left: 60px;
+margin-top: 50px;
+}
+
+.veemon-titulo{
+margin-left: 150px;
+white-space: nowrap;
+}
+
+
+.ukkomon-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.kudamon-descripcion{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.kudamon-precio{
+margin-left: 200px;
+white-space: nowrap;
+}
+
+.angoramon-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.guilmon-img{
+height: 350px;
+position: relative;
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.pukamon-img{
+height: 350px;
+position: relative;
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.impmon-img{
+height: 350px;
+position: relative;
+margin-left: 20px;
+margin-top: 30px;
+}
+
+.wizardmon-img{
+height: 350px;
+position: relative;
+margin-left: 40px;
+margin-top: 10px;
+}
+
+.juego-d-img{
+height: 250px;
+position: relative;
+margin-left: 50px;
+margin-top: 80px;
+}
+
+.juego-d-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.juego-d2-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juego-d3-img{
+height: 350px;
+position: relative;
+margin-left: 30px;
+margin-top: 40px;
+}
+
+.juego-d3-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juego-d4-img{
+height: 400px;
+position: relative;
+margin-left: 40px;
+margin-top: 20px;
+}
+
+.juego-d4-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.juego-d5-img{
+height: 380px;
+position: relative;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.juego-d5-titulo{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juego-d6-img{
+height: 340px;
+position: relative;
+margin-left: 5px;
+margin-top: 50px;
+}
+
+.juego-d6-titulo{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.juego-d7-titulo{
+margin-left: 110px;
+white-space: nowrap;
+}
+
+.juego-d8-titulo{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.juego-d9-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.juego-d10-img{
+height: 380px;
+position: relative;
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.juego-d11-titulo{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juego-d12-img{
+height: 300px;
+position: relative;
+margin-left: 15px;
+margin-top: 70px;
+}
+
+.juego-d12-titulo{
+margin-left: 55px;
+white-space: nowrap;
+}
+
+.juego-d13-img{
+height: 400px;
+position: relative;
+margin-left: 60px;
+margin-top: 20px;
+}
+
+.juego-d13-titulo{
+margin-left: 60px;
+white-space: nowrap;
+}
+
+.juego-d14-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.juego-d15-img{
+height: 310px;
+position: relative;
+margin-left: 5px;
+margin-top: 50px;
+}
+
+.juego-d15-titulo{
+margin-left: 10px;
+white-space: nowrap;
+}
+
+.juego-d16-img{
+height: 370px;
+position: relative;
+margin-left: 35px;
+margin-top: 30px;
+}
+
+.juego-d16-titulo{
+margin-left: 75px;
+white-space: nowrap;
+}
+
+.juego-d17-titulo{
+margin-left: 35px;
+white-space: nowrap;
+}
+
+.cartas-d-img{
+height: 250px;
+position: relative;
+margin-left: -10px;
+margin-top: 70px;
+}
+
+.cartas-d-titulo{
+margin-left: 7px;
+white-space: nowrap;
+}
+
+.cartas-d-descripcion{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.cartas-d2-img{
+height: 400px;
+position: relative;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.cartas-d2-titulo{
+margin-left: 3px;
+white-space: nowrap;
+}
+
+.cartas-d3-titulo{
+margin-left: 20px;
+font-size: 22px;
+white-space: nowrap;
+}
+
+.cartas-d4-titulo{
+margin-left: 18px;
+font-size: 21px;
+white-space: nowrap;
+}
+
+.cartas-d5-titulo{
+margin-left: 18px;
+font-size: 21px;
+white-space: nowrap;
+}
+
+.cartas-d6-titulo{
+margin-left: 13px;
+font-size: 20px;
+white-space: nowrap;
+}
+
+.cartas-d7-img{
+height: 280px;
+position: relative;
+margin-left: -10px;
+margin-top: 70px;
+}
+
+.cartas-d7-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.cartas-d8-titulo{
+margin-left: 15px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d9-titulo{
+margin-left: 26px;
+font-size: 18px;
+white-space: nowrap;
+}
+
+.cartas-d10-titulo{
+margin-left: 16px;
+font-size: 21px;
+white-space: nowrap;
+}
+
+.cartas-d8-img{
+height: 370px;
+position: relative;
+margin-left: 90px;
+margin-top: 30px;
+}
+
+.cartas-d11-titulo{
+margin-left: 9px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d81-img{
+height: 300px;
+position: relative;
+margin-left: -25px;
+margin-top: 30px;
+}
+
+.cartas-d81-titulo{
+margin-left: 35px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d82-img{
+height: 400px;
+position: relative;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.cartas-d82-titulo{
+margin-left: 35px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d83-img{
+height: 400px;
+position: relative;
+margin-left: 70px;
+margin-top: 10px;
+}
+
+.cartas-d83-titulo{
+margin-left: 50px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d84-img{
+height: 290px;
+position: relative;
+margin-left: -15px;
+margin-top: 50px;
+}
+
+.cartas-d9-img{
+height: 280px;
+position: relative;
+margin-left: 25px;
+margin-top: 60px;
+}
+
+.cartas-d12-titulo{
+margin-left: 30px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d10-img{
+height: 270px;
+position: relative;
+margin-left: 1px;
+margin-top: 70px;
+}
+
+.cartas-d13-titulo{
+margin-left: 60px;
+font-size: 23px;
+white-space: nowrap;
+}
+
+.cartas-d11-img{
+height: 270px;
+position: relative;
+margin-left: -5px;
+margin-top: 70px;
+}
+
+.cartas-d14-titulo{
+margin-left: 17px;
+font-size: 20px;
+white-space: nowrap;
+}
+
+.cartas-d12-img{
+height: 350px;
+position: relative;
+margin-left: 80px;
+margin-top: 40px;
+}
+
+.cartas-d15-titulo{
+margin-left: 20px;;
+white-space: nowrap;
+}
+
+.cartas-d13-img{
+height: 280px;
+position: relative;
+margin-left: 20px;
+margin-top: 60px;
+}
+
+.cartas-d16-titulo{
+margin-left: 90px;;
+white-space: nowrap;
+}
+
+.cartas-d14-img{
+height: 350px;
+position: relative;
+margin-left: 20px;
+margin-top: 30px;
+}
+
+.cartas-d17-titulo{
+margin-left: 10px;;
+white-space: nowrap;
+}
+
+.cartas-d18-titulo{
+margin-left: 20px;;
+white-space: nowrap;
+}
+
+.cartas-d19-titulo{
+margin-left: 10px;;
+white-space: nowrap;
+}
+
+.cartas-d15-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 40px;
+}
+
+.cartas-d20-titulo{
+margin-left: 60px;;
+white-space: nowrap;
+}
+
+.cartas-d16-img{
+height: 380px;
+position: relative;
+margin-left: 25px;
+margin-top: 10px;
+}
+
+.cartas-d17-img{
+height: 380px;
+position: relative;
+margin-left: 60px;
+margin-top: 10px;
+}
+
+.cartas-d17-titulo{
+margin-left: 2px;;
+white-space: nowrap;
+}
+
+.cartas-d18-titulo{
+margin-left: 30px;;
+white-space: nowrap;
+}
+
+.cartas-d19-titulo{
+margin-left: 20px;;
+white-space: nowrap;
+}
+
+.cartas-d18-img{
+height: 280px;
+position: relative;
+margin-left: 10px;
+margin-top: 60px;
+}
+
+.cartas-d19-titulo{
+margin-left: 60px;;
+white-space: nowrap;
+}
+
+.cartas-d20-titulo{
+margin-left: 1px;;
+white-space: nowrap;
+}
+
+.Color-de-atras-azul {
+    height: 250px; /* Ajusta la altura según lo necesario */
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+.boton-comprar{
+position: relative;
+}
+
+.boton-carrito{
+position: relative;
+bottom: -10px;
+}
+
+.juguete-p-img{
+height: 280px;
+position: relative;
+margin-left: 80px;
+margin-top: 60px;
+}
+.juguete-p-titulo{
+margin-left: 130px;;
+white-space: nowrap;
+}
+
+.juguete-p-descripcion{
+margin-left: 90px;;
+white-space: nowrap;
+}
+
+.juguete-p2-img{
+height: 170px;
+position: relative;
+margin-left: -10px;
+margin-top: 130px;
+}
+
+.juguete-p2-descripcion{
+margin-left: 1px;
+font-size: 14.8px;
+white-space: nowrap;
+}
+
+.juguete-p3-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p3-titulo{
+margin-left: 160px;;
+white-space: nowrap;
+}
+
+.juguete-p3-descripcion{
+margin-left: 90px;;
+white-space: nowrap;
+}
+
+.juguete-p4-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 60px;
+}
+
+.juguete-p4-descripcion{
+margin-left: 70px;;
+white-space: nowrap;
+}
+
+.juguete-p5-img{
+height: 250px;
+position: relative;
+margin-left: 20px;
+margin-top: 80px;
+}
+
+.juguete-p5-titulo{
+margin-left: 110px;;
+white-space: nowrap;
+}
+
+.juguete-p5-descripcion{
+margin-left: 20px;
+}
+
+.juguete-p6-img{
+height: 300px;
+position: relative;
+margin-left: 60px;
+margin-top: 70px;
+}
+
+.juguete-p6-titulo{
+margin-left: 140px;;
+white-space: nowrap;
+}
+
+.juguete-p6-descripcion{
+margin-left: 70px;
+}
+
+.juguete-p7-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 70px;
+}
+
+.juguete-p7-descripcion{
+margin-left: 80px;
+}
+
+.juguete-p8-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 70px;
+}
+
+.juguete-p8-titulo{
+margin-left: 160px;;
+white-space: nowrap;
+}
+
+.juguete-p8-descripcion{
+margin-left: 80px;
+}
+
+.juguete-p9-img{
+height: 250px;
+position: relative;
+margin-left: 5px;
+margin-top: 100px;
+}
+
+.juguete-p9-titulo{
+margin-left: 160px;
+white-space: nowrap;
+}
+
+.juguete-p9-descripcion{
+margin-left: 100px;
+}
+
+.juguete-p10-img{
+height: 250px;
+position: relative;
+margin-left: 20px;
+margin-top: 100px;
+}
+
+.juguete-p10-descripcion{
+margin-left: 80px;
+}
+
+.juguete-p11-descripcion{
+margin-left: 150px;
+}
+
+.juguete-p12-descripcion{
+margin-left: 140px;
+}
+
+.juguete-p11-img{
+height: 350px;
+position: relative;
+margin-left: 40px;
+margin-top: 50px;
+}
+
+.juguete-p13-descripcion{
+margin-left: 130px;
+}
+
+.juguete-p11-img{
+height: 300px;
+position: relative;
+margin-left: 40px;
+margin-top: 50px;
+}
+
+.juguete-p14-descripcion{
+margin-left: 110px;
+}
+
+.juguete-p12-img{
+height: 350px;
+position: relative;
+margin-left: -2px;
+margin-top: 50px;
+}
+
+.juguete-p15-descripcion{
+margin-left: 40px;
+white-space: nowrap;
+}
+
+.juguete-p13-img{
+height: 300px;
+position: relative;
+margin-left: 1px;
+margin-top: 50px;
+}
+
+.juguete-p16-descripcion{
+margin-left: 40px;
+}
+
+.juguete-p14-img{
+height: 280px;
+position: relative;
+margin-left: 1px;
+margin-top: 80px;
+}
+
+.juguete-p15-img{
+height: 350px;
+position: relative;
+margin-left: 70px;
+margin-top: 30px;
+}
+
+.juguete-p17-descripcion{
+margin-left: 145px;
+}
+
+.juguete-p16-img{
+height: 210px;
+position: relative;
+margin-left: 10px;
+margin-top: 90px;
+}
+
+.juguete-p18-descripcion{
+margin-left: 90px;
+}
+
+.juguete-p19-descripcion{
+margin-left: 150px;
+}
+
+.juguete-p17-img{
+height: 350px;
+position: relative;
+margin-left: 5px;
+margin-top: 40px;
+}
+
+.juguete-p20-descripcion{
+margin-left: 140px;
+}
+
+.juguete-p21-descripcion{
+margin-left: 40px;
+}
+
+.juguete-p18-img{
+height: 270px;
+position: relative;
+margin-left: 5px;
+margin-top: 80px;
+}
+
+.juguete-p19-img{
+height: 250px;
+position: relative;
+margin-left: 5px;
+margin-top: 80px;
+}
+
+.juguete-p22-descripcion{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.juguete-p20-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 80px;
+}
+
+.juguete-p10-titulo{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.juguete-p23-descripcion{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juguete-p11-titulo{
+margin-left: 150px;
+white-space: nowrap;
+}
+
+.juguete-p24-descripcion{
+margin-left: 110px;
+white-space: nowrap;
+}
+
+.juguete-p12-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p13-titulo{
+margin-left: 15px;
+white-space: nowrap;
+font-size: 21px;
+}
+
+.juguete-p21-img{
+height: 300px;
+position: relative;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+.juguete-p14-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p22-img{
+height: 280px;
+position: relative;
+margin-left: 10px;
+margin-top: 80px;
+}
+
+.juguete-p15-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.juguete-p23-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p16-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p17-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p24-img{
+height: 350px;
+position: relative;
+margin-left: 70px;
+margin-top: 30px;
+}
+
+.juguete-p18-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p19-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p25-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p20-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p26-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p27-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p28-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p21-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p29-img{
+height: 350px;
+position: relative;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+.juguete-p22-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p25-descripcion{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p23-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p24-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.juguete-p26-descripcion{
+margin-left: 110px;
+white-space: nowrap;
+}
+
+.juguete-p30-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 60px;
+}
+
+.juguete-p27-descripcion{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p25-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p26-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.juguete-p28-descripcion{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p27-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p29-descripcion{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p28-titulo{
+margin-left: 110px;
+white-space: nowrap;
+}
+
+.juguete-p29-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p30-titulo{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.juguete-p30-descripcion{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p31-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p31-descripcion{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.juguete-p32-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.juguete-p33-titulo{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.juguete-p31-img{
+height: 200px;
+position: relative;
+margin-left: 10px;
+margin-top: 120px;
+}
+
+.juguete-p32-img{
+height: 300px;
+position: relative;
+margin-left: 70px;
+margin-top: 80px;
+}
+
+.juguete-p34-titulo{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juguete-p35-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.juguete-p36-titulo{
+margin-left: 10px;
+white-space: nowrap;
+}
+
+.juguete-p33-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 60px;
+}
+
+.juguete-p37-titulo{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.juguete-p32-descripcion{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juguete-p38-titulo{
+margin-left: 15px;
+white-space: nowrap;
+font-size: 22px;
+}
+
+.juguete-p39-titulo{
+margin-left: 10px;
+white-space: nowrap;
+font-size: 20px;
+}
+
+.juguete-p40-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.juguete-p41-titulo{
+margin-left: 20px;
+white-space: nowrap;
+}
+
+.juguete-p42-titulo{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.juguete-p43-titulo{
+margin-left: 20px;
+white-space: nowrap;
+}
+
+.juguete-p34-img{
+height: 300px;
+position: relative;
+margin-left: 80px;
+margin-top: 60px;
+}
+
+.juguete-p44-titulo{
+margin-left: 10px;
+white-space: nowrap;
+}
+
+.juguete-p45-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.juguete-p46-titulo{
+margin-left: 1px;
+white-space: nowrap;
+font-size: 20px;
+}
+
+.juguete-p35-img{
+height: 220px;
+position: relative;
+margin-left: -10px;
+margin-top: 110px;
+}
+
+.juguete-p47-titulo{
+margin-left: 10px;
+white-space: nowrap;
+}
+
+.juguete-p36-img{
+height: 300px;
+position: relative;
+margin-left: 50px;
+margin-top: 70px;
+}
+
+.juguete-p48-titulo{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.juguete-p37-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 70px;
+}
+
+.juguete-p38-img{
+height: 160px;
+position: relative;
+margin-left: 1px;
+margin-top: 130px;
+}
+
+.juguete-p49-titulo{
+margin-left: 70px;
+white-space: nowrap;
+}
+
+.juguete-p39-img{
+height: 350px;
+position: relative;
+margin-left: 100px;
+margin-top: 30px;
+}
+
+.juguete-p50-titulo{
+margin-left: 1px;
+white-space: nowrap;
+}
+
+.yo-kai-y-img{
+height: 400px;
+position: relative;
+margin-left: 50px;
+margin-top: 9px;
+}
+
+.yo-kai-y-titulo{
+margin-left: 60px;
+white-space: nowrap;
+}
+
+.yo-kai-y-descripcion{
+margin-left: 40px;
+white-space: nowrap;
+}
+
+.yo-kai-y2-img{
+height: 400px;
+position: relative;
+margin-left: 30px;
+margin-top: 9px;
+}
+
+.yo-kai-y2-titulo{
+margin-left: 10px;
+white-space: nowrap;
+font-size: 18px;
+}
+
+.yo-kai-y2-descripcion{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.yo-kai-y3-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 50px;
+}
+
+.yo-kai-y3-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.yo-kai-y3-descripcion{
+margin-left: 5px;
+white-space: nowrap;
+}
+
+.yo-kai-y4-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y4-descripcion{
+margin-left: 30px;
+white-space: nowrap;
+}
+
+.yo-kai-y4-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 70px;
+}
+
+.yo-kai-y5-titulo{
+margin-left: 5px;
+white-space: nowrap;
+font-size: 20px;
+}
+
+.yo-kai-y5-descripcion{
+margin-left: 5px;
+white-space: nowrap;
+font-size: 14px;
+}
+
+.yo-kai-y6-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.yo-kai-y6-descripcion{
+margin-left: 40px;
+white-space: nowrap;
+}
+
+.yo-kai-y7-titulo{
+margin-left: 5px;
+white-space: nowrap;
+font-size: 18px;
+}
+
+.yo-kai-y7-descripcion{
+margin-left: 15px;
+white-space: nowrap;
+font-size: 14px;
+}
+
+.yo-kai-y8-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.yo-kai-y8-descripcion{
+margin-left: 12px;
+white-space: nowrap;
+font-size: 15px;
+}
+
+.yo-kai-y9-descripcion{
+margin-left: 50px;
+}
+
+.yo-kai-y9-titulo{
+margin-left: 10px;
+white-space: nowrap;
+font-size: 23px;
+}
+
+.yo-kai-y10-titulo{
+margin-left: 170px;
+white-space: nowrap;
+font-size: 23px;
+}
+
+.yo-kai-y5-img{
+height: 150px;
+position: relative;
+margin-left: -20px;
+margin-top: 120px;
+}
+
+.yo-kai-y11-titulo{
+margin-left: 130px;
+white-space: nowrap;
+font-size: 23px;
+}
+
+.yo-kai-y6-img{
+height: 300px;
+position: relative;
+margin-left: 10px;
+margin-top: 50px;
+}
+
+.yo-kai-y12-titulo{
+margin-left: 150px;
+white-space: nowrap;
+}
+
+.yo-kai-y10-descripcion{
+margin-left: 150px;
+}
+
+.yo-kai-y7-img{
+height: 300px;
+position: relative;
+margin-left: -50px;
+margin-top: 80px;
+}
+
+.yo-kai-y13-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y11-descripcion{
+margin-left: 80px;
+}
+
+.yo-kai-y8-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 80px;
+}
+
+.yo-kai-y14-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y12-descripcion{
+margin-left: 150px;
+}
+
+.yo-kai-y15-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.yo-kai-y13-descripcion{
+margin-left: 180px;
+}
+
+.yo-kai-y16-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.yo-kai-y9-img{
+height: 250px;
+position: relative;
+margin-left: -10px;
+margin-top: 80px;
+}
+
+.yo-kai-y17-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y14-descripcion{
+margin-left: 160px;
+}
+
+.yo-kai-y18-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.yo-kai-y15-descripcion{
+margin-left: 140px;
+}
+
+.yo-kai-y10-img{
+height: 300px;
+position: relative;
+margin-left: 50px;
+margin-top: 80px;
+}
+
+.yo-kai-y19-titulo{
+margin-left: 160px;
+white-space: nowrap;
+}
+
+.yo-kai-y11-img{
+height: 300px;
+position: relative;
+margin-left: -20px;
+margin-top: 80px;
+}
+
+.yo-kai-y20-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.yo-kai-y21-titulo{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.yo-kai-y22-titulo{
+margin-left: 140px;
+white-space: nowrap;
+}
+
+.yo-kai-y23-titulo{
+margin-left: 160px;
+white-space: nowrap;
+}
+
+.yo-kai-y24-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.yo-kai-y12-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 80px;
+}
+
+.yo-kai-y25-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y26-titulo{
+margin-left: 110px;
+white-space: nowrap;
+}
+
+.yo-kai-y27-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y13-img{
+height: 200px;
+position: relative;
+margin-left: 20px;
+margin-top: 100px;
+}
+
+.yo-kai-y28-titulo{
+margin-left: 50px;
+white-space: nowrap;
+}
+
+.yo-kai-y14-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 100px;
+}
+
+.yo-kai-y29-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y15-img{
+height: 300px;
+position: relative;
+margin-left: 80px;
+margin-top: 100px;
+}
+
+.yo-kai-y30-titulo{
+margin-left: 160px;
+white-space: nowrap;
+}
+
+.yo-kai-y31-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y32-titulo{
+margin-left: 120px;
+white-space: nowrap;
+}
+
+.yo-kai-y16-img{
+height: 300px;
+position: relative;
+margin-left: 20px;
+margin-top: 100px;
+}
+
+.yo-kai-y33-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y17-img{
+height: 300px;
+position: relative;
+margin-left: 70px;
+margin-top: 100px;
+}
+
+.yo-kai-y16-descripcion{
+margin-left: 170px;
+}
+
+.yo-kai-y34-titulo{
+margin-left: 170px;
+white-space: nowrap;
+}
+
+.yo-kai-y17-descripcion{
+margin-left: 130px;
+}
+
+.yo-kai-y18-img{
+height: 300px;
+position: relative;
+margin-left: 80px;
+margin-top: 100px;
+}
+
+.yo-kai-y35-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y19-img{
+height: 150px;
+position: relative;
+margin-left: 5px;
+margin-top: 150px;
+}
+
+.yo-kai-y36-titulo{
+margin-left: 100px;
+white-space: nowrap;
+}
+
+.yo-kai-y18-descripcion{
+margin-left: 90px;
+white-space: nowrap;
+}
+
+.yo-kai-y20-img{
+height: 300px;
+position: relative;
+margin-left: 30px;
+margin-top: 100px;
+}
+
+.yo-kai-y21-img{
+height: 400px;
+position: relative;
+margin-left: 60px;
+margin-top: 20px;
+}
+
+.yo-kai-y37-titulo{
+margin-left: 130px;
+white-space: nowrap;
+}
+
+.yo-kai-y19-descripcion{
+margin-left: 200px;
+white-space: nowrap;
+}
+
+.yo-kai-y20-descripcion{
+margin-left: 170px;
+white-space: nowrap;
+}
+
+.yo-kai-y21-descripcion{
+margin-left: 190px;
+white-space: nowrap;
+}
+
+.yo-kai-y22-img{
+height: 400px;
+position: relative;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.yo-kai-y23-img{
+height: 250px;
+position: relative;
+margin-left: 20px;
+margin-top: 80px;
+}
+
+.yo-kai-y38-titulo{
+margin-left: 80px;
+white-space: nowrap;
+}
+
+.yo-kai-y22-descripcion{
+margin-left: 180px;
+white-space: nowrap;
+}
+
+.section-carrito{
+height: 1000px;
+background-color: gainsboro;
+}
+
+.section-carrito:empty {
+    display: none;
+}
+
+
+  .Buscador {
+            position: relative;
+            margin: 20px;
+        }
+
+        .sugerencias {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            max-width: 400px;
+            background-color: white;
+            position: absolute;
+            z-index: 1000;
+            max-height: 300px; /* Limitar la altura para que se muestren hasta 8 elementos */
+            overflow-y: auto; /* Habilitar el desplazamiento vertical */
+        }
+
+        .producto-sugerencia {
+            display: flex;
+            align-items: center;
+            margin: 10px;
+            padding: 10px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .producto-sugerencia:hover {
+            background-color: #f0f0f0;
+        }
+
+        .producto-sugerencia img {
+            width: 50px;
+            height: 50px;
+            margin-right: 10px;
+        }
+
+
+
+
+.header-productos-digimon4{
+height: 100px;
+background-color: ga;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 14%;
+padding-right: 5%;
+font-weight: bold;
+}
+
+
+.producto-carrito {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.producto-imagen {
+    width: 100px;
+    height: auto;
+}
+
+.boton-eliminar {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.section-ayuda {
+    height: 1000px;
+}
